@@ -16,3 +16,6 @@
 
 Desde de quando comecei a me interessar pela tecnologia, e reconeheço que foi um pouco tarde, meu mundo mudou completamente.
 Iniciei na faculdade de Análise e desenvolvimento de Sistemas e sempre estou buscando conehcimento para minha preparação profissional.
+A  cada dia estou estudando e me aperfeiçoando para novos desafios e conhecimentos.
+Gosto de trocar ideiaas com  a  galera para poder resolver problemas, ter sempre um ambiente amígavel , descontraido e confortável.
+Um ambiente bom é aquele que todos trabalham em equipe e satisfeito.

@@ -1,12 +1,11 @@
 ### Olá Eu sou Glauber Ferreira! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauber-ferreira-a314b867)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Glauber7)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519992948329)
 
 ![Glauber7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Glauber7&show_icons=true&theme=dracula)
 
-## Tecnologias que  uso no dia a dia!
+## Tecnologias que estudo no meu dia a dia!
 
 <div style="display: inline_block "><br/>
     <img aline="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

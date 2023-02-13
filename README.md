@@ -18,8 +18,9 @@
     <img aline="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img aline="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img aline="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>   
-</div><br>
-
+    <img aline = "center" alt = "html5" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<div/><br/>
+  
 Desde de quando comecei a me interessar pela tecnologia, e reconeheço que foi um pouco tarde, meu mundo mudou completamente.
 Iniciei na faculdade de Análise e desenvolvimento de Sistemas e sempre estou buscando conehcimento para minha preparação profissional.
 A  cada dia estou estudando e me aperfeiçoando para novos desafios e conhecimentos.

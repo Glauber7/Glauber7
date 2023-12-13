@@ -1,4 +1,4 @@
-### Olá Eu sou Glauber Ferreira tenho 41 anos e procuro uma primira oportunidade  para eu me ingressar no mundo tecnológico. Conto com sua ajuda!😉
+### Olá Eu sou Glauber Ferreira tenho 42 anos estudante de analise e desenvolvimento de software, encantado pela tecnologia e o que muito ela faz, o que me daci na e por traz de tudo o que acontece para que tudo se realize no mundo digital. Meu mundo hoje e tentar viver de tecnologia. Conto com sua ajuda!😉
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glauber-ferreira-a314b867)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519992948329)
